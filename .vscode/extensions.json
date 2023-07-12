@@ -1,0 +1,24 @@
+{
+    "recommendations": [
+        "felixfbecker.php-debug",
+        "esbenp.prettier-vscode",
+        "tabnine.tabnine-vscode",
+        "coenraads.bracket-pair-colorizer-2",
+        "formulahendry.auto-rename-tag",
+        "formulahendry.auto-close-tag",
+        "pranaygp.vscode-css-peek",
+        "ms-ceintl.vscode-language-pack-zh-hant",
+        "formulahendry.code-runner",
+        "streetsidesoftware.code-spell-checker",
+        "alefragnani.bookmarks",
+        "zignd.html-css-class-completion",
+        "ms-vsliveshare.vsliveshare",
+        "christian-kohler.path-intellisense",
+        "felixfbecker.php-pack",
+        "jaspernorth.vscode-pigments",
+        "ritwickdey.liveserver",
+        "syler.sass-indented",
+        "glenn2223.live-sass",
+        "kiteco.kite"
+    ]
+}
